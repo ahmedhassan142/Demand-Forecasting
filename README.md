@@ -1,10 +1,10 @@
 ---
-title: "📦 Supply Chain Forecaster"
+title: 📦 Supply Chain Forecaster
 emoji: 📈
 colorFrom: indigo
 colorTo: blue
 sdk: gradio
-sdk_version: "4.12.0"
+sdk_version: 5.34.2
 app_file: app.py
 pinned: false
 ---
